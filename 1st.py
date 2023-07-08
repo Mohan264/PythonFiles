@@ -9,4 +9,6 @@ if(p == rev ):
     print("Palindrome")
 else:
     print("Not Palindrome")
+
+print("Edited in GitHub")
     
